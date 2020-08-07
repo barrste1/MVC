@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\bin\Debug\netcoreapp3.1\08062020_MCV_Lab.exe
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\bin\Debug\netcoreapp3.1\08062020_MCV_Lab.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\bin\Debug\netcoreapp3.1\08062020_MCV_Lab.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\bin\Debug\netcoreapp3.1\08062020_MCV_Lab.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\bin\Debug\netcoreapp3.1\08062020_MCV_Lab.dll
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\bin\Debug\netcoreapp3.1\08062020_MCV_Lab.pdb
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\obj\Debug\netcoreapp3.1\08062020_MCV_Lab.csprojAssemblyReference.cache
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\obj\Debug\netcoreapp3.1\08062020_MCV_Lab.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\obj\Debug\netcoreapp3.1\08062020_MCV_Lab.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\obj\Debug\netcoreapp3.1\08062020_MCV_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\obj\Debug\netcoreapp3.1\08062020_MCV_Lab.dll
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\obj\Debug\netcoreapp3.1\08062020_MCV_Lab.pdb
+C:\Users\Stephen Barr (Work)\source\repos\08062020_MCV_Lab\obj\Debug\netcoreapp3.1\08062020_MCV_Lab.genruntimeconfig.cache
